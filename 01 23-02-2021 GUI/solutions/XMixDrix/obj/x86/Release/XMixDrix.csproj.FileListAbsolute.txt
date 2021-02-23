@@ -1,0 +1,36 @@
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\bin\Release\XMixDrix.exe
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\bin\Release\XMixDrix.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\XMixDrix.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\XMixDrix.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\Users\Home\AppData\Local\Temporary Projects\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\bin\Release\XMixDrix.exe
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\bin\Release\XMixDrix.pdb
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\lec09 ARRAY\X Mix Drix\XMixDrix\obj\x86\Release\GenerateResource.write.1.tlog
+C:\לימודים\hi-tech\MY_MCPD\02 MY_2124\lec09 27_1_2011 WinnAPP GLOBALS\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\לימודים\hi-tech\MY_MCPD\02 MY_2124\lec09 27_1_2011 WinnAPP GLOBALS\X Mix Drix\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\bin\Release\XMixDrix.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\bin\Release\XMixDrix.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.csprojResolveAssemblyReference.cache
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.Form1.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.Properties.Resources.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\XMixDrix\obj\x86\Release\XMixDrix.csproj.GenerateResource.Cache

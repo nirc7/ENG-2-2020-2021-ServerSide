@@ -1,0 +1,13 @@
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\bin\Release\lecture1.exe
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\bin\Release\lecture1.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\lecture1.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\lecture1.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\lecture1.exe
+C:\Users\Home\AppData\Local\Temporary Projects\lecture1\obj\x86\Release\lecture1.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\lecture1\obj\x86\Release\lecture1.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\lecture1\obj\x86\Release\lecture1.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\lecture1\obj\x86\Release\lecture1.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\lecture1\obj\x86\Release\lecture1.pdb

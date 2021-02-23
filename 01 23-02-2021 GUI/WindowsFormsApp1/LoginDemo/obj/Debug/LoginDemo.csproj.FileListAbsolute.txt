@@ -1,0 +1,9 @@
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\bin\Debug\LoginDemo.exe.config
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\bin\Debug\LoginDemo.exe
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\bin\Debug\LoginDemo.pdb
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.csprojAssemblyReference.cache
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.exe
+C:\Users\Nir\Desktop\ENG-2-2020-2021-ServerSide\01 23-02-2021 GUI\WindowsFormsApp1\LoginDemo\obj\Debug\LoginDemo.pdb

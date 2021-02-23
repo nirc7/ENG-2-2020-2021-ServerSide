@@ -1,0 +1,27 @@
+C:\Users\Nir\Desktop\hitech\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nir\Desktop\hitech\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.Form1.resources
+C:\Users\Nir\Desktop\hitech\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Nir\Desktop\hitech\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.Form1.resources
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\GenerateResource.read.1.tlog
+C:\לימודים\hi-tech\MY_MCPD\MY_2124\lec08 FUNCTION2 WINDOWSAPP\MyCalc\MyCalc\obj\Debug\GenerateResource.write.1.tlog
+C:\לימודים\hi-tech\MY_MCPD\02 MY_2124\lec08 24_1_2011 FUNCTION2 WINDOWSAPP\02 MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\לימודים\hi-tech\MY_MCPD\02 MY_2124\lec08 24_1_2011 FUNCTION2 WINDOWSAPP\02 MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.Form1.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache

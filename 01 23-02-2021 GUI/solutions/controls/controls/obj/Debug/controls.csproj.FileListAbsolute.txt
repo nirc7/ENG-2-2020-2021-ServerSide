@@ -1,0 +1,28 @@
+C:\לימודים\מתרגל\ruppin\2008\ruppin2008 II\תירגולים\tirgul1\controls\controls\obj\Debug\controls.exe
+C:\לימודים\מתרגל\ruppin\2008\ruppin2008 II\תירגולים\tirgul1\controls\controls\obj\Debug\controls.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\ResolveAssemblyReference.cache
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Form1.resources
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Properties.Resources.resources
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\GenerateResource.read.1.tlog
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\01 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\GenerateResource.write.1.tlog
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.exe
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.pdb
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\ResolveAssemblyReference.cache
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Form1.resources
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Properties.Resources.resources
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\GenerateResource.read.1.tlog
+C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\02 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\GenerateResource.write.1.tlog
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.exe
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\bin\Debug\controls.pdb
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.csprojResolveAssemblyReference.cache
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Form1.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.Properties.Resources.resources
+C:\Work\ruppin management\ruppin management 2016\ruppin 2016 I\13 GUI - Win Application And Controls\solutions\controls\controls\obj\Debug\controls.csproj.GenerateResource.Cache
