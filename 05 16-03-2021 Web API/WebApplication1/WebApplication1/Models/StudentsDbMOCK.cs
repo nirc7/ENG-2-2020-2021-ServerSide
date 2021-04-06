@@ -7,6 +7,8 @@ namespace WebApplication1.Models
 {
     public class StudentsDbMOCK
     {
+        public static int Counter=5;
+
         public static List<Student> students = new List<Student>
         {
             new Student(){ID=1, Name="avi", Grade=100 },
