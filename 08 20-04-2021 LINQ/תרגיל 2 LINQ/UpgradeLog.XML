@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LINQ_HW1">
+</Property><Property Name="Solution File" Value="C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\LINQ_HW1.sln">
+</Property><Property Name="User Options File" Value="C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\LINQ_HW1.suo">
+</Property><Property Name="Date" Value="יום שני 17 יוני 2013">
+</Property><Property Name="Time" Value="11:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LINQ_HW1.sln" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LINQ_HW1.suo" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1.suo">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\LINQ_HW1.csproj" Description="Project file successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1\LINQ_HW1.csproj">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\Boat.cs" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1\Boat.cs">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\ExtensionMethodsClass.cs" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1\ExtensionMethodsClass.cs">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\Program.cs" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1\Program.cs">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\לימודים\מתרגל\ruppin\ruppin 2013\ruppin 2013 II\13 LINQ\תרגיל 2 LINQ\Backup\LINQ_HW1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\LINQ_HW1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ_HW1" Source="LINQ_HW1\LINQ_HW1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LINQ_HW1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LINQ_HW1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ_HW1" Source="LINQ_HW1\LINQ_HW1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
